@@ -1,6 +1,6 @@
 # Fiscalito – Asistente Fiscal Inteligente (RAG)
 
-**Fiscalito** es un chatbot basado en **Retrieval-Augmented Generation (RAG)** que responde consultas sobre **Monotributo en Argentina**, utilizando exclusivamente **documentación oficial** de ARCA, ANSES y Mi Argentina.
+**Fiscalito** es un Agente Conversacional basado en **Retrieval-Augmented Generation (RAG)** que responde consultas sobre **Monotributo en Argentina**, utilizando exclusivamente **documentación oficial** de ARCA, ANSES y Mi Argentina.
 
 Este proyecto fue desarrollado como **Challenge Final** para **Pi Data Strategy & Consulting**, demostrando el diseño e implementación de una arquitectura RAG end-to-end con backend y frontend desacoplados.
 
