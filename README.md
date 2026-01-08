@@ -19,17 +19,7 @@ Fiscalito está orientado a usuarios que no cuentan con conocimientos técnicos 
 
 ## Arquitectura
 
-Usuario
-↓
-Streamlit (Chat UI)
-↓ POST /ask
-FastAPI (API REST)
-↓
-RAG Pipeline (LangChain)
-↓
-ChromaDB (Vector Store)
-↓
-LLM (Cohere)
+Usuario > Streamlit (Chat UI) > POST /ask FastAPI (API REST) > RAG Pipeline (LangChain) > ChromaDB (Vector Store) > LLM (Cohere)
 
 
 
